@@ -6,7 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VIJAY-PC.play.hosting",
+    "ip": "VIJAY_PC.aternos.me",
+    "port": 41597
     "version": "",
     "try-creative": false
   },
@@ -30,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Hello guys welcome to this server"
+        ""
       ]
     },
     "chat-log": true,
@@ -71,7 +72,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.gg/zNCpNvc5b",
     "events": {
       "connect": true,
       "disconnect": true,
