@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VIJAY_PC.aternos.me",
-    "port": 41597
+    "ip": "VIJAY_PC_SMP.aternos.me",
+    "port": 54047,
     "version": "",
     "try-creative": false
   },
