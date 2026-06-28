@@ -72,7 +72,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "https://discord.gg/Gc2RMfhQu",
+    "webhookUrl": "",
     "events": {
       "connect": true,
       "disconnect": true,
