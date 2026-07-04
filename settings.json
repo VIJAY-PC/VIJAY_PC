@@ -6,7 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Pixel-craft.play.hosting",
+    "ip": "Alphaking2000.aternos.me",
+    "port": 39223,
     "version": "",
     "try-creative": false
   },
